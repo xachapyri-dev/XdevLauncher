@@ -13,7 +13,9 @@
 
 ## Что надо для работы?
 - Windows 10 и выше
-- Установленный .NET Framework 4.8.1 и WebView2 Runtime последний версии
+- Установленный .NET Framework 4.8.1 и *WebView2 Runtime последний версии
+
+> *WebView2 Runtime нужен для версий старше 2.1.0
 
 # Важное предупреждение
 
